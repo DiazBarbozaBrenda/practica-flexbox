@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    height: 300px;
+    width: 800px;
+    border: 2px solid grey;
+    display: flex;
+}
+
+/* .primer-cuadrado {
+    display: flex;
+    width: 90px;
+} */
+
+img {
+    height: 270px;
+    width: 150px;
+    margin: 15px 8px;
+    border: 1px solid black;
+}
+
+.segundo-cuadrado {
+    display: flex;
+    border: 2px solid grey;
+    height: 270px;
+    margin: 15px 8px;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+h2 {
+
+}
+
+p {
+    display: flex;
+    font-size: 10px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.primer-div {
+    height: 100px;
+    width: 250px;
+    background-color: red;
+}
+
+.segundo-div {
+    height: 100px;
+    flex-grow: 1;
+    background-color: blue;
+}
+
+.tercer-div {
+    height: 100px;
+    width: 250px;
+    background-color: yellow;
+}
+
+.cuarto-div {
+    height: 100px;
+    width: 200px;
+    background-color: purple
+}
+
+.quinto-div {
+    height: 100px;
+    flex-grow: 1;
+    background-color: green
+}
+
+.sexto-div {
+    height: 100px;
+    flex-grow: 1;
+    background-color: grey;
+}
+
+.septimo-div {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+}
+
+.octavo-div {
+    height: 100px;
+    width: 33.3%;
+    background-color: springgreen;
+}
+
+.noveno-div {
+    height: 100px;
+    width: 33.33%;
+    background-color: violet;
+}
+
+.decimo-div {
+    height: 100px;
+    width: 33.3%;
+    background-color: tomato;
+}
